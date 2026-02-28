@@ -1,2 +1,0 @@
-# maksim-gruzoperevozki-kaliningrad
-Landing page — auto-deployed
